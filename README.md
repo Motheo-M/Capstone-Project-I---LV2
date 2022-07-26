@@ -16,7 +16,7 @@ This program allows the user to capture all the necessary details of a building 
     * The details of the architect.
     * The details of the contractor.
     * The details of the client.
-2. It aslo allows the user to make changes to the following details:
+2. It also allows the user to make changes to the following details:
     * The deadline of the project.
     * The total amount of the fee paid to date.
     * To update the contractor's contact details.
